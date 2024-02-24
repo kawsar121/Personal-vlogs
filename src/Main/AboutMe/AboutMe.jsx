@@ -5,6 +5,7 @@ const AboutMe = () => {
         <div >
             <div>
                 <img src="/src/assets/IMG_20210821_194310.jpg" alt="" />
+            
             </div>
             <p className='text-lg text-center mt-11'>
                 Meet Tohidul Islam Kawsar Bhuiyan, a talented and dynamic individual based in Feni, Bangladesh. Tohidul is a skilled web developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack, showcasing his proficiency in crafting modern and efficient web applications. Currently pursuing studies at Feni Computer Institute, he is dedicated to honing his skills in the field of Computer Science and Technology.
